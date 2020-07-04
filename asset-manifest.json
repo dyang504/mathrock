@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mathrock/static/css/main.b35e848f.chunk.css",
+    "main.js": "/mathrock/static/js/main.1b5e7449.chunk.js",
+    "main.js.map": "/mathrock/static/js/main.1b5e7449.chunk.js.map",
+    "runtime-main.js": "/mathrock/static/js/runtime-main.661248b4.js",
+    "runtime-main.js.map": "/mathrock/static/js/runtime-main.661248b4.js.map",
+    "static/js/2.f9ab7115.chunk.js": "/mathrock/static/js/2.f9ab7115.chunk.js",
+    "static/js/2.f9ab7115.chunk.js.map": "/mathrock/static/js/2.f9ab7115.chunk.js.map",
+    "index.html": "/mathrock/index.html",
+    "precache-manifest.6ebe9a981cc570f005afdbcbadf06085.js": "/mathrock/precache-manifest.6ebe9a981cc570f005afdbcbadf06085.js",
+    "service-worker.js": "/mathrock/service-worker.js",
+    "static/css/main.b35e848f.chunk.css.map": "/mathrock/static/css/main.b35e848f.chunk.css.map",
+    "static/js/2.f9ab7115.chunk.js.LICENSE.txt": "/mathrock/static/js/2.f9ab7115.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661248b4.js",
+    "static/js/2.f9ab7115.chunk.js",
+    "static/css/main.b35e848f.chunk.css",
+    "static/js/main.1b5e7449.chunk.js"
+  ]
+}
